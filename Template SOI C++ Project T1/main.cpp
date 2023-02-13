@@ -72,6 +72,7 @@ int main() {
 		else
 			std::cout << i + 1 << ". " << arr3[i] << '\n';
 	}
+	std::cout << std::endl;
 
 	return 0;
 }
